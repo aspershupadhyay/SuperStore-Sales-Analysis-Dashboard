@@ -5,4 +5,4 @@
 - Publish reports to `Power BI Service` to share with others.
 
 ### Dashboard Look Like this 👇
-<iframe title="Superstore Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmM5YmEyYmYtNDJlOS00MDlkLWJmZmMtNWRkZWYzMjkwODkzIiwidCI6IjU0Zjk3YjQ0LTU3ODEtNDlmNy1iZDhlLTZhYTg1ZjcwZTM1OCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMmM5YmEyYmYtNDJlOS00MDlkLWJmZmMtNWRkZWYzMjkwODkzIiwidCI6IjU0Zjk3YjQ0LTU3ODEtNDlmNy1iZDhlLTZhYTg1ZjcwZTM1OCIsImMiOjZ9&embedImagePlaceholder=true
